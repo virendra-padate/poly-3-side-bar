@@ -1,0 +1,16 @@
+{
+  "name": "application-side-bar",
+  "version": "0.0.1",
+  "main": "application-side-bar.js",
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.0-pre.21",
+    "@polymer/iron-pages": "^3.0.0-pre.21",
+    "@polymer/iron-selector": "^3.0.0-pre.21",
+    "@polymer/polymer": "^3.0.0-pre.12"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "^1.0.0",
+    "wct-browser-legacy": "^0.0.1-pre.11"
+  }
+}
